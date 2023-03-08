@@ -1,10 +1,8 @@
 ## 《UNIX/Linux系统管理手册》（第五版 2017）
 
+这里收集了第五版英文版，以及第四版中文版。内容太多，中文版分成6个文件。
 
-亚马逊上600+人打分4.7星。
-
-This edition drops coverage of Solaris, HP-UX, and AIX, focusing instead on three Linux distributions (Debian, Ubuntu, RHEL/CentOS) and FreeBSD.
-
+第五版去掉了上一版的 Solaris, HP-UX, and AIX, 只保留 Debian, Ubuntu, RHEL/CentOS，以及 FreeBSD。
 
 下面是台湾出的第五版中文版目录：
 
