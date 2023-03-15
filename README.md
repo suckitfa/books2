@@ -6,6 +6,8 @@
 
 ## 创业
 
+[精益创业](https://github.com/henryhu712/books2/tree/master/The.Lean.Startup)
+
 [Show Your Work!](https://github.com/henryhu712/books2/tree/master/show.your.work)
 
 [致富心态](https://github.com/henryhu712/books2/tree/master/the.psychology.of.money)
